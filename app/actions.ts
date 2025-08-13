@@ -22,7 +22,7 @@ export async function subscribeEmail(prevState: any, formData: FormData) {
   }
 
   const { firstName, lastName, email, optIn } = parsed.data
-  const webhookUrl = "https://hugo0908.app.n8n.cloud/webhook/1cee2223-b8a0-4d08-bd48-9d9987ee2dee"
+  const webhookUrl = "https://hugo0908.app.n8n.cloud/webhook-test/1cee2223-b8a0-4d08-bd48-9d9987ee2dee"
 
   try {
     const params = new URLSearchParams({
