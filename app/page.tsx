@@ -113,8 +113,7 @@ return (
                 <span className="text-juno-red">You know we can</span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600 max-w-lg mx-auto lg:mx-0">
-                We bouwen aan iets bijzonders. Laat je gegevens achter en wees de eerste die onze vernieuwde site
-                ontdekt.
+                Heeft u vragen of wensen mbt software of ai toepassingen? Neem dan vast contact op
               </p>
 
               <form ref={formRef} action={formAction} className="mt-10 mx-auto max-w-md space-y-4 lg:mx-0">
