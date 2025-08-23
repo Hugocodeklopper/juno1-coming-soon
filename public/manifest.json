@@ -1,0 +1,27 @@
+{
+  "name": "Juno1 - AI & Software Development",
+  "short_name": "Juno1",
+  "description": "Juno1 biedt AI-innovatie, software development, BIM-diensten en offshore teams.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "lang": "nl",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "technology"]
+}
